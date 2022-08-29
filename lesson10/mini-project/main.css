@@ -1,0 +1,16 @@
+.users {
+    background-color: rosybrown;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.user {
+    width: 50%;
+}
+
+.learn-more {
+    display: block;
+}

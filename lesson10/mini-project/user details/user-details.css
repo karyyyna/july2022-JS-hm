@@ -1,0 +1,45 @@
+.user-details {
+    background-color: rosybrown;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.posts-link-container {
+    display: flex;
+    justify-content: center;
+}
+
+.posts-link {
+    background-color: #9285df;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    width: 90%;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.posts {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #bdafff;
+    color: white;
+    border-radius: 10px;
+}
+
+.post {
+    width: 20%;
+    text-align: center;
+}
+
+.post-link {
+    background-color: white;
+    color: #9285df;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    display: block;
+}
